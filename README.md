@@ -1,6 +1,8 @@
 Subject =#4 Loop for Table Printing For Even Number From 1 to 10 Using While Loop.
+
 Language = c
-Output = Hello guys in code i will show you the even number of table from 1 to 10. which is under below.
+
+Output = Hello guys in code i am show you the even number of table from 1 to 10. which is under below.
 
 
                      2*1=2     4*1=4     6*1=6     8*1=8      10*1=10
